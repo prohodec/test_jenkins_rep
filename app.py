@@ -1,5 +1,5 @@
-def test(a, b):
-    return a + b
+def test(a, b, c):
+    return a + b + c
 
 
-test(1, 3)
+test(1, 3, 4)
